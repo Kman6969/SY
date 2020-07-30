@@ -31,7 +31,7 @@ void sort(int a[],int n)
 }
 int main()
 {
-	int a[20],n;
+	int a[25],n;
 	printf("\nEnter how many numbers\n");
 	scanf("%d",&n);
 	printf("\nEnter elements of array");
